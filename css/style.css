@@ -215,12 +215,12 @@ h1,h2,h3,h4,h5,h6{ line-height : 1; }
 #container section .inner .box_wrap li .items h3{
   font-size: 20px;
   line-height: 20px;
-  color : #252525;
+  color : #fff;
 }
 
 #container section .inner .box_wrap li .items p{
   line-height: 24px;
-  color : #666666;
+  color : #fff;
   margin : 32px 0;
 }
 #container section .inner .box_wrap li .items img{
